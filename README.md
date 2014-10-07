@@ -30,7 +30,7 @@ versions, V18 and V19 and their APIs are different.  Some Linux distributions
 use V18 (eg. Debian, Ubuntu) others (eg. SuSe) use V19.
 
 To compile to use a particular version of the PortAudio library, first copy
-either  portaudio18.h  or  portaudio19.h  to  portaudio.h.
+either  portaudio18.h  or  portaudio19.h  to  portaudio.h.fdgfd
 
 If you don't need eSpeak to output sound, but only to produce WAV files,
 then you can remove or comment out the following line in  speech.h.
