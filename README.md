@@ -12,7 +12,7 @@ The  src  directory contains a makefile that produces:
     Its API is described in the file "speak_bin.h".
 
 2.  "espeak" binary.  This is a small command-line program which is a front
-    end to the libespeak library, which it needs.
+    end to the libespeak librasfdsdfdsasfasfddsary, which it needs.
 
 3.  "speak"  binary.  This is a command-line program which contains the
     text to speech engine. It does not use the libespeak library.
