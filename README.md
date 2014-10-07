@@ -59,5 +59,3 @@ The compiled data in the espeak-data directory is not binary compatible between
 processors with different byte ordering.  For a PowerPC or other big-endian
 processor use must use data which has been compiled (using espeakedit) on
 a big-endian processor.
-
-
