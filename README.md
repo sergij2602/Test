@@ -10,7 +10,7 @@ The  src  directory contains a makefile that produces:
 1.  "libspeak.so.1.xx".  (where xx is a version number)
     This is a shared library which contains the text to speech engine.
     Its API is described in the file "speak_bin.h".
-
+wqeqwejksdfkjkljflkj
 2.  "espeak" binary.  This is a small command-line program which is a front
     end to the libespeak librasfdsdfdsasfasfddsary, which it needs.
 
